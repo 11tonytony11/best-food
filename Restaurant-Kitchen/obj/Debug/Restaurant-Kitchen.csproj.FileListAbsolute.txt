@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Restaurant\Restaurant-Kitchen\obj\Debug\Restaurant-Kitchen.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Restaurant\Restaurant-Kitchen\obj\Debug\Restaurant_Kitchen.Kitchen.resources
+C:\Users\User\source\repos\Restaurant\Restaurant-Kitchen\obj\Debug\Restaurant_Kitchen.Properties.Resources.resources
+C:\Users\User\source\repos\Restaurant\Restaurant-Kitchen\obj\Debug\Restaurant-Kitchen.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Restaurant\Restaurant-Kitchen\obj\Debug\Restaurant-Kitchen.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Restaurant\Restaurant-Kitchen\bin\Debug\Restaurant-Kitchen.exe.config
+C:\Users\User\source\repos\Restaurant\Restaurant-Kitchen\bin\Debug\Restaurant-Kitchen.exe
+C:\Users\User\source\repos\Restaurant\Restaurant-Kitchen\bin\Debug\Restaurant-Kitchen.pdb
+C:\Users\User\source\repos\Restaurant\Restaurant-Kitchen\obj\Debug\Restaurant-Kitchen.exe
+C:\Users\User\source\repos\Restaurant\Restaurant-Kitchen\obj\Debug\Restaurant-Kitchen.pdb
+C:\Users\User\source\repos\Restaurant\Restaurant-Kitchen\obj\Debug\Restaurant_Kitchen.History.resources
